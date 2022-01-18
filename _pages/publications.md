@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## In Preparation
+Vehicle routing with relay: an arc-based column generation approach, with Cynthia Barnhart, Alexandre Jacquillat, and Riley Lenaway.
 
-{% include base_path %}
+Vehicle routing with relay: an arc-based column generation approach, with Alexandre Jacquillat and Kai Wang.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Talks
+
+**INFORMS Annual Meeting 2021**, Vehicle routing with relay: an arc-based column generation approach
+
+**INFORMS Transportation and Logistics Workshop**, Vehicle routing with relay: an arc-based column generation approach
