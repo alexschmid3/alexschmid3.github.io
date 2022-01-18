@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 I am a second year PhD student at the MIT Operations Research Center, advised by Dr. [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). 
 
 
-Research Interests
-======
+%Research Interests
+%======
