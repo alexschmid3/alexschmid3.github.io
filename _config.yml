@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Schmid"
-  avatar           : "files/AlexSchmid.jpg"
+  avatar           : "AlexSchmid.jpg"
   bio              : "Operations Research PhD Student"
   location         : "Cambridge, MA"
   employer         :
