@@ -19,8 +19,8 @@ My primary research interests include large-scale optimization, decision-making 
 Education
 ======
 
-**PhD in Operations Research**, 2025
+**PhD in Operations Research**, 2025  /
 Massachusetts Institute of Technology
 
-**BS in Industrial and Systems Engineering**, 2016
+**BS in Industrial and Systems Engineering**, 2016  /
 Georgia Institute of Technology
