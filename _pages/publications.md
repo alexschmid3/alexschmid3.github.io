@@ -17,3 +17,5 @@ search approach, with Cynthia Barnhart, Alexandre Jacquillat, and Riley Lenaway.
 - **INFORMS Annual Meeting 2021**, Vehicle routing with relay: an arc-based column generation approach
 
 - **INFORMS Transportation and Logistics Workshop**, Vehicle routing with relay: an arc-based column generation approach
+
+- **TRISTAN XI**, Relay logistics: a multi-variable generation approach
