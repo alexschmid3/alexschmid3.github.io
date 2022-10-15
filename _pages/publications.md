@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## In Preparation
+## Working Papers
 
 - Task assignment and route planning in robotic warehousing: a learning-enhanced large-scale neighborhood
 search approach, with Cynthia Barnhart, Alexandre Jacquillat, and Riley Lenaway.
