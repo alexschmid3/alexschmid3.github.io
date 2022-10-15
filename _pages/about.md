@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 
-I am a second year PhD student at the MIT Operations Research Center, advised by Dr. [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). As part of my graduate work, I am modeling and developing algorithms for solving optimization problems in logistics, routing, and robotics. I am also a Social and Ethical Responsibilities of Computing Scholar through the MIT Schwarzman College of Computing. 
+I am a second year PhD student at the MIT Operations Research Center, advised by Dr. [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). As part of my graduate work, I am modeling and developing algorithms for solving optimization problems in logistics, routing, and robotics. I am also a Teaching Development Fellow throught the [MIT Teaching and Learning Lab](https://tll.mit.edu/). 
 
 Research Interests
 ======
 
-My primary research interests include large-scale optimization, decision-making under uncertainty, and algorithm interpretability, with an emphasis on applications in routing and transportation. Recently, I have been interested in applying machine learning to accelerate decomposition algorithms for integer and combinatorial optimization problems. 
-
+My primary research interests include large-scale optimization and decision-making under uncertainty, with an emphasis on applications in routing and transportation. Recently, I have been interested in applying machine learning to accelerate decomposition algorithms for integer and combinatorial optimization problems. 
 
 Education
 ======

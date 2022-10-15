@@ -10,7 +10,7 @@ author_profile: true
 - Task assignment and route planning in robotic warehousing: a learning-enhanced large-scale neighborhood
 search approach, with Cynthia Barnhart, Alexandre Jacquillat, and Riley Lenaway.
 
-- Vehicle routing with relay: an arc-based column generation approach, with Alexandre Jacquillat and Kai Wang.
+- Relay logistics: a multi-variable generation approach, with Alexandre Jacquillat and Kai Wang. Submitted 2022. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>.
 
 ## Talks
 
