@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a second year PhD student at the MIT Operations Research Center, advised by Dr. [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). As part of my graduate work, I am modeling and developing algorithms for solving optimization problems in logistics, routing, and robotics. I am also a Teaching Development Fellow throught the [MIT Teaching and Learning Lab](https://tll.mit.edu/). 
+I am a third year PhD student at the MIT Operations Research Center, advised by Dr. [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). As part of my graduate work, I am modeling and developing algorithms for solving optimization problems in logistics, routing, and robotics. I am also a Teaching Development Fellow throught the [MIT Teaching and Learning Lab](https://tll.mit.edu/). 
 
 Research Interests
 ======
