@@ -7,15 +7,20 @@ author_profile: true
 
 ## Working Papers
 
-- Task assignment and route planning in robotic warehousing: a learning-enhanced large-scale neighborhood
-search approach, with Cynthia Barnhart, Alexandre Jacquillat, and Riley Lenaway.
+- Robotic warehousing operations: a learning-enhanced large-scale neighborhood search approach, with Cynthia Barnhart and Alexandre Jacquillat. Submitted.
 
-- Relay logistics: a multi-variable generation approach, with Alexandre Jacquillat and Kai Wang. Submitted 2022. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>.
+- Optimizing relay operations toward sustainable logistics, with Alexandre Jacquillat and Kai Wang. Submitted. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>.
 
 ## Talks
 
-- **INFORMS Annual Meeting 2021**, Vehicle routing with relay: an arc-based column generation approach
+- **INFORMS Annual Meeting 2021**, Optimizing relay operations toward sustainable logistics
 
-- **INFORMS Transportation and Logistics Workshop**, Vehicle routing with relay: an arc-based column generation approach
+- **INFORMS Transportation and Logistics Workshop 2021**, Optimizing relay operations toward sustainable logistics
 
-- **TRISTAN XI**, Relay logistics: a multi-variable generation approach
+- **TRISTAN XI**, Optimizing relay operations toward sustainable logistics
+
+- **INFORMS Annual Meeting 2022**, Robotic warehousing operations
+
+- **MSOM Conference 2023**, Robotic warehousing operations
+
+- **INFORMS Annual Meeting 2023**, Robotic warehousing operations
