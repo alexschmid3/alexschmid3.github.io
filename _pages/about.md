@@ -7,13 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a fourth year PhD student at the MIT Operations Research Center, advised by Dr. [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). As part of my graduate work, I am modeling and developing algorithms for solving optimization problems in logistics, routing, and robotics. 
-
-Research Interests
-======
-
-My primary research interests include large-scale optimization and decision-making under uncertainty, with an emphasis on applications in routing and transportation. Recently, I have been interested in applying machine learning to accelerate decomposition algorithms for integer and combinatorial optimization problems. 
+I am a fourth-year PhD student at the MIT Operations Research Center, advised by [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). My research focuses on large-scale optimization and decision-making under uncertainty, with an emphasis on transportation and logistics. I aim to develop scalable algorithms for coordinated routing of vehicles and robots to support emerging models for sustainable transportation. In the summer of 2023, I interned at Amazon Robotics to develop optimization algorithms for scheduling and coordination in robotic warehouses. 
 
 Education
 ======
