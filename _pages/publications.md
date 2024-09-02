@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-- Robotic warehousing operations: a learning-enhanced large-scale neighborhood search approach, with Cynthia Barnhart and Alexandre Jacquillat. Under revision at _INFORMS Journal on Optimization_.
+- Robotic warehousing operations: a learning-enhanced large-scale neighborhood search approach, with Cynthia Barnhart and Alexandre Jacquillat. Under revision at _INFORMS Journal on Optimization_. <a href="https://arxiv.org/abs/2408.16890">Preprint</a>. 
 
 - Optimizing relay operations toward sustainable logistics, with Alexandre Jacquillat and Kai Wang. Submitted. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>.
 
