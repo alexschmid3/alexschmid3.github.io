@@ -12,7 +12,7 @@ author_profile: true
 
 ## Working Papers
 
-- Deviated fixed-route microtransit: design and operations, with Kayla Cummings, Alexandre Jacquillat, and Bernardo Martin-Iradi. Under revision at _INFORMS Operations Research_. <a href="https://arxiv.org/pdf/2402.01265">Preprint</a>. 
+- Deviated fixed-route microtransit: design and operations, with Kayla Cummings, Alexandre Jacquillat, and Bernardo Martin-Iradi. Under revision at _Operations Research_. <a href="https://arxiv.org/pdf/2402.01265">Preprint</a>. 
 
 - Optimizing relay operations toward sustainable logistics, with Alexandre Jacquillat and Kai Wang. Submitted. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>.
 
