@@ -34,4 +34,4 @@ author_profile: true
 
 - **INFORMS Annual Meeting 2024**, Optimizing relay operations toward sustainable logistics
 
-- **INFORMS Computing Society 2025**, Deviated fixed-route microtransit: design and operations
+- **INFORMS Computing Society Conference 2025**, Deviated fixed-route microtransit: design and operations
