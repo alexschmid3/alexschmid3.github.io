@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -14,7 +14,7 @@ author_profile: true
 
 - Deviated fixed-route microtransit: design and operations, with Kayla Cummings, Alexandre Jacquillat, and Bernardo Martin-Iradi. Under revision at _Operations Research_. <a href="https://arxiv.org/pdf/2402.01265">Preprint</a>. 
 
-- Optimizing relay operations toward sustainable logistics, with Alexandre Jacquillat and Kai Wang. Submitted. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>.
+- Optimizing relay operations toward sustainable logistics, with Alexandre Jacquillat and Kai Wang. Under revision at _Manufacturing & Service Operations Management_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>.
 
 - Order picking in large-scale robotic mobile fulfillment systems, with Cynthia Barnhart, Felipe Cordera, and Alexandre Jacquillat.
 
@@ -33,3 +33,5 @@ author_profile: true
 - **INFORMS Annual Meeting 2023**, Robotic warehousing operations
 
 - **INFORMS Annual Meeting 2024**, Optimizing relay operations toward sustainable logistics
+
+- **INFORMS Computing Society 2025**, Deviated fixed-route microtransit: design and operations
