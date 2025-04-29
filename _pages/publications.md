@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-- Robotic warehousing operations: a learning-enhanced large-scale neighborhood search approach, with Cynthia Barnhart and Alexandre Jacquillat. _INFORMS Journal on Optimization_. <a href="https://arxiv.org/abs/2408.16890">Preprint</a>. 
+- Robotic warehousing operations: a learning-enhanced large-scale neighborhood search approach, with Cynthia Barnhart and Alexandre Jacquillat. _INFORMS Journal on Optimization_. <a href="https://arxiv.org/abs/2408.16890">Paper</a>. 
 
 
 ## Working Papers
@@ -35,3 +35,5 @@ author_profile: true
 - **INFORMS Annual Meeting 2024**, Optimizing relay operations toward sustainable logistics
 
 - **INFORMS Computing Society Conference 2025**, Deviated fixed-route microtransit: design and operations
+
+- **ISyE-MS&E-IOE Rising Stars Workshop 2025**, Deviated fixed-route microtransit: design and operations
