@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student at the MIT Operations Research Center, advised by [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). My research focuses on large-scale optimization and decision-making under uncertainty, with an emphasis on transportation and logistics. I aim to develop scalable algorithms for coordinated vehicle routing to support emerging models for sustainable transportation. In the summer of 2023, I interned at Amazon Robotics to develop optimization algorithms for scheduling and coordination in robotic warehouses. 
+I am a final year PhD student at the MIT Operations Research Center, advised by [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/). Broadly speaking, I aim to develop scalable algorithms for large-scale optimization and decision-making under uncertainty, with an emphasis on transportation and logistics.  My PhD research tackles design and operations for emerging business models with an element of coordination. This coordination requires new models with complex synchronization constraints and accompanying decomposition algorithms to handle them at scale. In the summer of 2023, I interned at Amazon Robotics to develop optimization algorithms for scheduling and coordination of robotic drives in fulfillment centers.
+
+**I am on the 2025-2025 academic job market.**
 
 Education
 ======
 
-- **PhD in Operations Research**, 2025  \
+- **PhD in Operations Research**, 2026  \
 Massachusetts Institute of Technology
 
 - **BS in Industrial and Systems Engineering**, 2016  \
