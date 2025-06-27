@@ -14,7 +14,7 @@ I am a final year PhD student at the MIT Operations Research Center, advised by 
 Education
 ======
 
-- **PhD in Operations Research**, 2026  \
+- **PhD in Operations Research**, 2025  \
 Massachusetts Institute of Technology
 
 - **BS in Industrial and Systems Engineering**, 2016  \
