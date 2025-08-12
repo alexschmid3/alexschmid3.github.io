@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student at the MIT Operations Research Center, advised by Alexandre Jacquillat. Broadly speaking, I aim to develop scalable algorithms for large-scale optimization and decision-making under uncertainty, with an emphasis on transportation and logistics.  My PhD research tackles design and operations for emerging business models with an element of coordination. This coordination requires new models with complex synchronization constraints and accompanying decomposition algorithms to handle them at scale. In the summer of 2023, I interned at Amazon Robotics to develop optimization algorithms for scheduling and coordination of robotic drives in fulfillment centers.
+I am a final year PhD student at the MIT Operations Research Center, advised by Alexandre Jacquillat. Broadly speaking, I aim to develop scalable algorithms for large-scale optimization and decision-making under uncertainty, with an emphasis on transportation and logistics. My PhD research tackles design and operations for emerging business models with an element of coordination. This coordination requires new models with complex synchronization constraints, and accompanying decomposition algorithms to handle them at scale. In the summer of 2023, I interned at Amazon Robotics to develop optimization algorithms for scheduling and coordination of robotic drives in fulfillment centers. My work on microtransit is a finalist for the 2025 TSL Student Paper Prize Competition. 
 
 **I am on the 2025-2026 academic job market.**
 
@@ -19,3 +19,4 @@ Massachusetts Institute of Technology
 
 - **BS in Industrial and Systems Engineering**, 2016  \
 Georgia Institute of Technology
+

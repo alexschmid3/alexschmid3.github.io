@@ -12,6 +12,7 @@ author_profile: true
 ## Under Review
 
 - A double decomposition algorithm for network planning and operations in deviated fixed-route microtransit, with Bernardo Martin-Iradi, Kayla Cummings, and Alexandre Jacquillat. Major revision at _Operations Research_. <a href="https://arxiv.org/pdf/2402.01265">Preprint</a>
+*Finalist for 2025 TSL Student Paper Prize Competition*
 
 - Optimizing relay operations toward sustainable logistics, with Alexandre Jacquillat and Kai Wang. Major revision at _Manufacturing & Service Operations Management_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>
 
