@@ -8,4 +8,4 @@ date: 2025-10-09
 location: "Ithaca, New York"
 ---
 
-
+[More information](https://www.engineering.cornell.edu/orie/young-researchers-workshop/)
