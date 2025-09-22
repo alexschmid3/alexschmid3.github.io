@@ -1,5 +1,5 @@
 ---
-title: "2025 INFORMS Annual Meeting"
+title: "2025 INFORMS Annual Meeting, TSL Best Student Paper Session"
 collection: talks
 type: "Talk"
 permalink: /talks/informs2025tsl
