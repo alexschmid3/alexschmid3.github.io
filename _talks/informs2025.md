@@ -7,5 +7,3 @@ venue: "Georgia World Congress Center, Building A Level 3 A307"
 date: 2025-10-26
 location: "Atlanta, Georgia"
 ---
-
-[More information here](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=1451)
