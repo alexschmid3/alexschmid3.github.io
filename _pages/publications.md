@@ -28,9 +28,9 @@ author_profile: true
 
 - **2025 Cornell Young Researchers Workshop** 
 
-- **INFORMS Annual Meeting 2025** | Sunday, October 26 1:15 PM - 2:30 PM (Building A Level 3 A307)
+- **INFORMS Annual Meeting 2025**: Sunday, October 26 1:15 PM - 2:30 PM (Building A Level 3 A307)
  
-- **INFORMS Annual Meeting 2025, TSL Best Student Paper Session** | Monday, October 27 2:45 PM - 4:00 PM (Building A Level 4 A407)
+- **INFORMS Annual Meeting 2025, TSL Best Student Paper Session**: Monday, October 27 2:45 PM - 4:00 PM (Building A Level 4 A407)
 
 ## Past Talks
 
