@@ -18,6 +18,12 @@ author_profile: true
 
 ## Talks
 
+- **Upcoming: 2025 Cornell Young Researchers Workshop** 
+
+- **Upcoming: INFORMS Annual Meeting 2025** | Sunday, October 26 1:15 PM - 2:30 PM (Building A Level 3 A307)
+ 
+- **Upcoming: INFORMS Annual Meeting 2025, TSL Best Student Paper Session** | Monday, October 27 2:45 PM - 4:00 PM (Building A Level 4 A407)
+
 - **INFORMS Annual Meeting 2021**, Optimizing relay operations toward sustainable logistics
 
 - **INFORMS Transportation and Logistics Workshop 2021**, Optimizing relay operations toward sustainable logistics
