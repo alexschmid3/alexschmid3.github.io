@@ -16,7 +16,7 @@ My research has been recognized as a finalist for the 2025 Tranportation and Log
 Education
 ======
 
-- **PhD in Operations Research**, 2025  \
+- **PhD in Operations Research**, 2026  \
 Massachusetts Institute of Technology
 
 - **BS in Industrial and Systems Engineering**, 2016  \
