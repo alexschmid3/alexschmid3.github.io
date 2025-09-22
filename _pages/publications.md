@@ -16,13 +16,23 @@ author_profile: true
 
 - Optimizing relay operations toward sustainable logistics, with Alexandre Jacquillat and Kai Wang. Major revision at _Manufacturing & Service Operations Management_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241031">Preprint</a>
 
-## Talks
+## Working Papers
 
-- **Upcoming: 2025 Cornell Young Researchers Workshop** 
+- Order picking in large-scale robotic mobile fulfillment systems, with Cynthia Barnhart, Felipe Cordera, and Alexandre Jacquillat.
+  
+- Vehicle-Customer Coordination for High Capacity Microtransit, with Alexandre Jacquillat, Shriya Karam, Kai Wang, and Wei Zhang.
 
-- **Upcoming: INFORMS Annual Meeting 2025** | Sunday, October 26 1:15 PM - 2:30 PM (Building A Level 3 A307)
+- Service Network Design in Intra-City Express Delivery, with Tirui Cao, Alexandre Jacquillat, and Lei Zhao.
+
+## Upcoming Talks
+
+- **2025 Cornell Young Researchers Workshop** 
+
+- **INFORMS Annual Meeting 2025** | Sunday, October 26 1:15 PM - 2:30 PM (Building A Level 3 A307)
  
-- **Upcoming: INFORMS Annual Meeting 2025, TSL Best Student Paper Session** | Monday, October 27 2:45 PM - 4:00 PM (Building A Level 4 A407)
+- **INFORMS Annual Meeting 2025, TSL Best Student Paper Session** | Monday, October 27 2:45 PM - 4:00 PM (Building A Level 4 A407)
+
+## Past Talks
 
 - **INFORMS Annual Meeting 2021**, Optimizing relay operations toward sustainable logistics
 
