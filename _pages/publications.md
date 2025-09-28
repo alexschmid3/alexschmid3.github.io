@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-- Robotic warehousing operations: a learning-enhanced large-scale neighborhood search approach, with Cynthia Barnhart and Alexandre Jacquillat. <span style="color:blue">_INFORMS Journal on Optimization_</span>. <a href="https://pubsonline.informs.org/doi/abs/10.1287/ijoo.2024.0033">Paper</a> <a href="https://arxiv.org/abs/2408.16890">arXiv</a> 
+- Robotic warehousing operations: a learning-enhanced large-scale neighborhood search approach, with Cynthia Barnhart and Alexandre Jacquillat. _INFORMS Journal on Optimization_. <a href="https://pubsonline.informs.org/doi/abs/10.1287/ijoo.2024.0033">Paper</a> <a href="https://arxiv.org/abs/2408.16890">arXiv</a> 
 
 ## Under Review
 
