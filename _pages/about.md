@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student at the MIT Operations Research Center, advised by [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat). Broadly speaking, I aim to develop scalable algorithms for large-scale optimization and decision-making under uncertainty, with an emphasis on transportation and logistics. My PhD research tackles design and operations for emerging operating models with an element of coordination. 
+I am an assistant professor in the David Eccles School of Business at the University of Utah, in the Operations and Information Systems department. Broadly speaking, I aim to develop scalable algorithms for large-scale optimization and decision-making under uncertainty, with an emphasis on transportation and logistics. 
 
-In the summer of 2023, I interned at Amazon Robotics to develop optimization algorithms for scheduling and coordination of robotic drives in fulfillment centers. Before MIT, I worked as a senior analyst in supply chain analytics at the Home Depot. 
+I earned my PhD from the MIT Operations Research Center, where I was advised by [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat). My thesis designed new optimization models and algorithms for the design and operation of emerging coordination-based operating models in transporation and logistics. I previously interned at Amazon Robotics and worked as a senior analyst in supply chain analytics at the Home Depot. 
 
 Education
 ======
